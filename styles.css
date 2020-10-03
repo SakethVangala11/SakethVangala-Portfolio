@@ -1,0 +1,56 @@
+/* Headings */
+h1{
+    font-size: 3em;
+    font-family: 'Roboto', sans-serif;
+    color: #343a40;
+    font-weight: 900; 
+}
+h2{
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+    color: #343a40;
+    font-weight: 700; 
+}
+h5,h3,h4{
+    font-family: 'Roboto', sans-serif;
+    color: #343a40 ;
+    
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    color: #343a40 ;
+    font-size: 1.1em;
+    font-weight:500;
+}
+span{
+    font-family: 'Roboto', sans-serif;
+    color: #343a40 ;
+}
+a{
+    color:black ;
+}
+a:hover{
+    color: black ;
+}
+/* Navbar */
+.nav-link{
+   font-size: 1.25em;
+   font-family: 'Roboto', sans-serif;
+   color: #343a40;
+   margin: 0.5em;
+   font-weight: 500;
+}
+.nav-link:hover{
+    color: #343a40;
+    font-weight: 900;
+}
+.navbar-brand{
+    margin-left: 1em;
+}
+
+/* footer */
+.social-media{
+  margin:1.25% ;
+  font-size: 1.5em;
+}
